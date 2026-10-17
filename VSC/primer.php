@@ -1,0 +1,3 @@
+<?php
+$primeraVariable = "Hola, mundo";
+?>
